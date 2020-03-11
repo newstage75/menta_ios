@@ -1,15 +1,15 @@
 //
-//  MyFirstNameTests.swift
-//  MyFirstNameTests
+//  SliderTests.swift
+//  SliderTests
 //
-//  Created by 永澤 on 2020/03/10.
+//  Created by 永澤 on 2020/03/11.
 //  Copyright © 2020 nagasawa hirotomo. All rights reserved.
 //
 
 import XCTest
-@testable import MyFirstName
+@testable import Slider
 
-class MyFirstNameTests: XCTestCase {
+class SliderTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

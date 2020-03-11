@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  MyFirstName
+//  Slider
 //
-//  Created by 永澤 on 2020/03/10.
+//  Created by 永澤 on 2020/03/11.
 //  Copyright © 2020 nagasawa hirotomo. All rights reserved.
 //
 
